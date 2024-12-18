@@ -11,7 +11,7 @@ setup(
     description='Algoritmos de subarray máximo e multiplicação de Strassen',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/seuusuario/seuprojeto',  # URL do repositório do GitHub
+    url='https://github.com/xxvelho/EliveltonAlgoritmosII',  # URL do repositório do GitHub
     packages=find_packages(),
     classifiers=[
         'Programming Language :: Python :: 3',
